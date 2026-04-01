@@ -19,6 +19,7 @@ Simple battery monitor for Termux that detects charging progress and plays a sou
 - Termux
 - Termux:API app installed
 - Packages:
+  - golang
   - termux-api
   - jq
   - mpv
